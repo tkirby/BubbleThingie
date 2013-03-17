@@ -1,7 +1,7 @@
 BubbleThingie
 =============
 
-Messages app Text and Image Bubbles on IOS
+Messages-like Text and Image Bubbles on iOS. There's a couple different methods shown (UIView, UIButton...). Not sure if this is the correct or most efficient way to implement this but I couldn't find any other examples of how to do this.
 
 ![Screenshot](https://raw.github.com/tkirby/BubbleThingie/master/doc/screenshot.png "Bubbles!")
 
