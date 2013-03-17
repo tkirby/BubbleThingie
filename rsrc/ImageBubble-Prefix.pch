@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'MaskTests' target in the 'MaskTests' project
+// Prefix header for all source files of the 'ImageBubble' target in the 'ImageBubble' project
 //
 
 #import <Availability.h>

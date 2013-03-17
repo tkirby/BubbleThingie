@@ -1,25 +1,25 @@
 //
-//  KTMaskAppDelegate.m
-//  MaskTests
+//  ImageBubbleAppDelegate.m
+//  ImageBubble
 //
 //  Created by Richard Kirby on 3/12/13.
 //  Copyright (c) 2013 Kirby. All rights reserved.
 //
 
-#import "KTMaskAppDelegate.h"
+#import "ImageBubbleAppDelegate.h"
 
-#import "KTMaskViewController.h"
+#import "ImageBubbleViewController.h"
 
-@implementation KTMaskAppDelegate
+@implementation ImageBubbleAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
-        self.viewController = [[KTMaskViewController alloc] initWithNibName:@"KTMaskViewController_iPhone" bundle:nil];
+        self.viewController = [[ImageBubbleViewController alloc] initWithNibName:@"ImageBubbleViewController_iPhone" bundle:nil];
     } else {
-        self.viewController = [[KTMaskViewController alloc] initWithNibName:@"KTMaskViewController_iPad" bundle:nil];
+        self.viewController = [[ImageBubbleViewController alloc] initWithNibName:@"ImageBubbleViewController_iPad" bundle:nil];
     }
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
