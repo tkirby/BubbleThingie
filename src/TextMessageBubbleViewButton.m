@@ -92,7 +92,6 @@ UIEdgeInsets UIEdgeInsetsNegate(UIEdgeInsets insets)
 - (void) sizeToFit
 {
     [super sizeToFit];
-    // TODO: Negate insets
     self.frame = UIEdgeInsetsInsetRect(self.frame, UIEdgeInsetsNegate(self.contentInsets));
     self.bubbleImageView.frame = self.bounds;
 
