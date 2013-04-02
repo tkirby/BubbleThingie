@@ -23,12 +23,12 @@
 		4ED2083E16F1129300E17936 /* ImageBubbleMask@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ED2082716F1129300E17936 /* ImageBubbleMask@2x~iphone.png */; };
 		4ED2083F16F1129300E17936 /* ImageBubbleMask~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ED2082816F1129300E17936 /* ImageBubbleMask~iphone.png */; };
 		4ED2084016F1129300E17936 /* ImageBubble~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ED2082916F1129300E17936 /* ImageBubble~iphone.png */; };
-		4ED2084116F1129300E17936 /* ImageBubbleViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4ED2082B16F1129300E17936 /* ImageBubbleViewController_iPad.xib */; };
-		4ED2084216F1129300E17936 /* ImageBubbleViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4ED2082D16F1129300E17936 /* ImageBubbleViewController_iPhone.xib */; };
-		4ED2084316F1129300E17936 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4ED2082F16F1129300E17936 /* InfoPlist.strings */; };
 		4ED2084516F1129300E17936 /* ImageBubbleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED2083516F1129300E17936 /* ImageBubbleAppDelegate.m */; };
 		4ED2084616F1129300E17936 /* ImageBubbleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED2083716F1129300E17936 /* ImageBubbleViewController.m */; };
 		4ED2084716F1129300E17936 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED2083816F1129300E17936 /* main.m */; };
+		4EE64DD8170AED1500A6DC44 /* BubbleThingieViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EE64DD1170AED1500A6DC44 /* BubbleThingieViewController_iPad.xib */; };
+		4EE64DD9170AED1500A6DC44 /* BubbleThingieViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EE64DD3170AED1500A6DC44 /* BubbleThingieViewController_iPhone.xib */; };
+		4EE64DDA170AED1500A6DC44 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4EE64DD5170AED1500A6DC44 /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,16 +53,16 @@
 		4ED2082716F1129300E17936 /* ImageBubbleMask@2x~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ImageBubbleMask@2x~iphone.png"; sourceTree = "<group>"; };
 		4ED2082816F1129300E17936 /* ImageBubbleMask~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ImageBubbleMask~iphone.png"; sourceTree = "<group>"; };
 		4ED2082916F1129300E17936 /* ImageBubble~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ImageBubble~iphone.png"; sourceTree = "<group>"; };
-		4ED2082C16F1129300E17936 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ImageBubbleViewController_iPad.xib; sourceTree = "<group>"; };
-		4ED2082E16F1129300E17936 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ImageBubbleViewController_iPhone.xib; sourceTree = "<group>"; };
-		4ED2083016F1129300E17936 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4ED2083116F1129300E17936 /* ImageBubble-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ImageBubble-Info.plist"; sourceTree = "<group>"; };
-		4ED2083216F1129300E17936 /* ImageBubble-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ImageBubble-Prefix.pch"; sourceTree = "<group>"; };
 		4ED2083416F1129300E17936 /* ImageBubbleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageBubbleAppDelegate.h; sourceTree = "<group>"; };
 		4ED2083516F1129300E17936 /* ImageBubbleAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageBubbleAppDelegate.m; sourceTree = "<group>"; };
 		4ED2083616F1129300E17936 /* ImageBubbleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageBubbleViewController.h; sourceTree = "<group>"; };
 		4ED2083716F1129300E17936 /* ImageBubbleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageBubbleViewController.m; sourceTree = "<group>"; };
 		4ED2083816F1129300E17936 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4EE64DCF170AED1500A6DC44 /* BubbleThingie-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BubbleThingie-Info.plist"; sourceTree = "<group>"; };
+		4EE64DD0170AED1500A6DC44 /* BubbleThingie-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BubbleThingie-Prefix.pch"; sourceTree = "<group>"; };
+		4EE64DD2170AED1500A6DC44 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/BubbleThingieViewController_iPad.xib; sourceTree = "<group>"; };
+		4EE64DD4170AED1500A6DC44 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/BubbleThingieViewController_iPhone.xib; sourceTree = "<group>"; };
+		4EE64DD6170AED1500A6DC44 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,8 +83,8 @@
 			isa = PBXGroup;
 			children = (
 				4ED2082116F1129300E17936 /* img */,
-				4ED2082A16F1129300E17936 /* rsrc */,
 				4ED2083316F1129300E17936 /* src */,
+				4EE64DCE170AED1500A6DC44 /* rsrc */,
 				4E37317516EF49BB00F95599 /* Frameworks */,
 				4E37317416EF49BB00F95599 /* Products */,
 			);
@@ -124,18 +124,6 @@
 			path = img;
 			sourceTree = "<group>";
 		};
-		4ED2082A16F1129300E17936 /* rsrc */ = {
-			isa = PBXGroup;
-			children = (
-				4ED2082B16F1129300E17936 /* ImageBubbleViewController_iPad.xib */,
-				4ED2082D16F1129300E17936 /* ImageBubbleViewController_iPhone.xib */,
-				4ED2082F16F1129300E17936 /* InfoPlist.strings */,
-				4ED2083116F1129300E17936 /* ImageBubble-Info.plist */,
-				4ED2083216F1129300E17936 /* ImageBubble-Prefix.pch */,
-			);
-			path = rsrc;
-			sourceTree = "<group>";
-		};
 		4ED2083316F1129300E17936 /* src */ = {
 			isa = PBXGroup;
 			children = (
@@ -154,6 +142,18 @@
 				4EC0444E16F1951300438D31 /* UIImage+Utils.m */,
 			);
 			path = src;
+			sourceTree = "<group>";
+		};
+		4EE64DCE170AED1500A6DC44 /* rsrc */ = {
+			isa = PBXGroup;
+			children = (
+				4EE64DCF170AED1500A6DC44 /* BubbleThingie-Info.plist */,
+				4EE64DD0170AED1500A6DC44 /* BubbleThingie-Prefix.pch */,
+				4EE64DD1170AED1500A6DC44 /* BubbleThingieViewController_iPad.xib */,
+				4EE64DD3170AED1500A6DC44 /* BubbleThingieViewController_iPhone.xib */,
+				4EE64DD5170AED1500A6DC44 /* InfoPlist.strings */,
+			);
+			path = rsrc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -186,7 +186,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = Kirby;
 			};
-			buildConfigurationList = 4E37316E16EF49BA00F95599 /* Build configuration list for PBXProject "ImageBubble" */;
+			buildConfigurationList = 4E37316E16EF49BA00F95599 /* Build configuration list for PBXProject "BubbleThingie" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -216,10 +216,10 @@
 				4ED2083E16F1129300E17936 /* ImageBubbleMask@2x~iphone.png in Resources */,
 				4ED2083F16F1129300E17936 /* ImageBubbleMask~iphone.png in Resources */,
 				4ED2084016F1129300E17936 /* ImageBubble~iphone.png in Resources */,
-				4ED2084116F1129300E17936 /* ImageBubbleViewController_iPad.xib in Resources */,
-				4ED2084216F1129300E17936 /* ImageBubbleViewController_iPhone.xib in Resources */,
-				4ED2084316F1129300E17936 /* InfoPlist.strings in Resources */,
 				4E9C4D7516F5A02400400197 /* person.png in Resources */,
+				4EE64DD8170AED1500A6DC44 /* BubbleThingieViewController_iPad.xib in Resources */,
+				4EE64DD9170AED1500A6DC44 /* BubbleThingieViewController_iPhone.xib in Resources */,
+				4EE64DDA170AED1500A6DC44 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -243,26 +243,26 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		4ED2082B16F1129300E17936 /* ImageBubbleViewController_iPad.xib */ = {
+		4EE64DD1170AED1500A6DC44 /* BubbleThingieViewController_iPad.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4ED2082C16F1129300E17936 /* en */,
+				4EE64DD2170AED1500A6DC44 /* en */,
 			);
-			name = ImageBubbleViewController_iPad.xib;
+			name = BubbleThingieViewController_iPad.xib;
 			sourceTree = "<group>";
 		};
-		4ED2082D16F1129300E17936 /* ImageBubbleViewController_iPhone.xib */ = {
+		4EE64DD3170AED1500A6DC44 /* BubbleThingieViewController_iPhone.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4ED2082E16F1129300E17936 /* en */,
+				4EE64DD4170AED1500A6DC44 /* en */,
 			);
-			name = ImageBubbleViewController_iPhone.xib;
+			name = BubbleThingieViewController_iPhone.xib;
 			sourceTree = "<group>";
 		};
-		4ED2082F16F1129300E17936 /* InfoPlist.strings */ = {
+		4EE64DD5170AED1500A6DC44 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4ED2083016F1129300E17936 /* en */,
+				4EE64DD6170AED1500A6DC44 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -332,8 +332,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "rsrc/ImageBubble-Prefix.pch";
-				INFOPLIST_FILE = "rsrc/ImageBubble-Info.plist";
+				GCC_PREFIX_HEADER = "rsrc/BubbleThingie-Prefix.pch";
+				INFOPLIST_FILE = "rsrc/BubbleThingie-Info.plist";
 				PRODUCT_NAME = ImageBubble;
 				WRAPPER_EXTENSION = app;
 			};
@@ -343,8 +343,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "rsrc/ImageBubble-Prefix.pch";
-				INFOPLIST_FILE = "rsrc/ImageBubble-Info.plist";
+				GCC_PREFIX_HEADER = "rsrc/BubbleThingie-Prefix.pch";
+				INFOPLIST_FILE = "rsrc/BubbleThingie-Info.plist";
 				PRODUCT_NAME = ImageBubble;
 				WRAPPER_EXTENSION = app;
 			};
@@ -353,7 +353,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4E37316E16EF49BA00F95599 /* Build configuration list for PBXProject "ImageBubble" */ = {
+		4E37316E16EF49BA00F95599 /* Build configuration list for PBXProject "BubbleThingie" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E37319716EF49BB00F95599 /* Debug */,
